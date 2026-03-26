@@ -1,0 +1,29 @@
+# IDEs and Editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Build and dependencies (generic)
+node_modules/
+dist/
+build/
+bin/
+obj/
+target/
+
+# Ignore local environment variables
+.env
+.env.local
+
+# Sub-projects
+khore-web-landing/node_modules/
+khore-web-landing/.next/
+khore-web-landing/out/
