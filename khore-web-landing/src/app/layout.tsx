@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const firaCode = Fira_Code({ subsets: ["latin"], variable: "--font-fira-code" });
 
 export const metadata: Metadata = {
-  title: "Khora | The Next Generation Video Engine",
+  title: "Khore | The Next Generation Video Engine",
   description: "An open-source, node-based NLE powered by Vulkan. No subscription, no legacy bloat, no lag.",
 };
 
