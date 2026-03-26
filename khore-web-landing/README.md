@@ -1,8 +1,8 @@
 
-# Khora: Project Brief for Web Development
+# Khore: Project Brief for Web Development
 
 ## The Vision
-We are building Khora, an open-source, node-based video editing engine. The goal is to create the "Blender of Video Editing"—a tool that replaces the bloated, laggy legacy editors (like Premiere Pro) with a zero-copy, Vulkan-accelerated, cross-platform media engine.
+We are building Khore, an open-source, node-based video editing engine. The goal is to create the "Blender of Video Editing"—a tool that replaces the bloated, laggy legacy editors (like Premiere Pro) with a zero-copy, Vulkan-accelerated, cross-platform media engine.
 
 ## 1. The Vibe & Aesthetic
 - **Theme**: "Sexy Smooth" dark mode by default. Think of the websites for high-end developer tools (like Vercel, Rust-lang, or Zed Editor) mixed with the artistic darkness of Blender.org.
@@ -19,9 +19,9 @@ We are building Khora, an open-source, node-based video editing engine. The goal
 - **Secondary CTA**: "Read the Manifesto" or "Join the Discord."
 - **Visual**: A sleek mockup or wireframe of a node-graph connecting to a video timeline.
 
-### Section 2: The Problem vs. The Khora Solution
-A quick 3-column grid explaining why Khora exists:
-1. **Legacy Debt**: Commercial editors crash on complex timelines. Khora uses a multi-threaded task graph.
+### Section 2: The Problem vs. The Khore Solution
+A quick 3-column grid explaining why Khore exists:
+1. **Legacy Debt**: Commercial editors crash on complex timelines. Khore uses a multi-threaded task graph.
 2. **GPU Native**: Bypassing the CPU bottlenecks with a Zero-Copy Vulkan 1.4 pipeline.
 3. **Community First**: Built for extensibility with a native Python API.
 

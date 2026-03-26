@@ -12,7 +12,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-6 h-16 flex items-center justify-between">
           <div className="font-mono font-bold text-xl tracking-tighter flex items-center gap-2">
             <span className="w-4 h-4 rounded-full bg-accent-green inline-block animate-pulse"></span>
-            KHORA
+            KHORE
           </div>
           <nav className="hidden md:flex gap-6 text-sm font-medium text-gray-400">
             <a href="#features" className="hover:text-accent-green transition-colors">Features</a>
@@ -101,7 +101,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto">
           <div className="mb-16">
              <h2 className="text-3xl md:text-5xl font-bold mb-4">Editing shouldn't lag.</h2>
-             <p className="text-xl text-gray-400 font-light max-w-2xl">Legacy NLEs are built on decades of technical debt. Khora is built from bare metal up.</p>
+             <p className="text-xl text-gray-400 font-light max-w-2xl">Legacy NLEs are built on decades of technical debt. Khore is built from bare metal up.</p>
           </div>
           
           <div className="grid md:grid-cols-3 gap-8">
@@ -112,7 +112,7 @@ export default function Home() {
               </div>
               <h3 className="text-xl font-bold mb-3">Legacy Debt Erased</h3>
               <p className="text-gray-400 leading-relaxed font-light">
-                Commercial editors crash on complex timelines because of monolithic architecture. Khora uses a <span className="text-gray-200 font-medium">multi-threaded task graph</span> structurally sound to handle millions of operations.
+                Commercial editors crash on complex timelines because of monolithic architecture. Khore uses a <span className="text-gray-200 font-medium">multi-threaded task graph</span> structurally sound to handle millions of operations.
               </p>
             </div>
             {/* Feature 2 */}
@@ -145,7 +145,7 @@ export default function Home() {
            <div>
              <h2 className="text-3xl md:text-5xl font-bold mb-6">Built for Engineers.</h2>
              <p className="text-lg text-gray-400 font-light mb-8">
-               Khora is radically open. The entire core is decoupled from the GUI, letting you run headless renders via CLI or integrate it directly into your own Rust/C++ pipelines.
+               Khore is radically open. The entire core is decoupled from the GUI, letting you run headless renders via CLI or integrate it directly into your own Rust/C++ pipelines.
              </p>
              <div className="grid grid-cols-2 gap-6 font-mono text-sm max-w-md">
                 <div className="flex flex-col gap-2">
@@ -234,7 +234,7 @@ export default function Home() {
         <div className="max-w-7xl w-full mx-auto flex flex-col md:flex-row justify-between items-center gap-6 mb-12">
            <div className="font-mono font-bold text-xl tracking-tighter flex items-center gap-2">
             <span className="w-4 h-4 rounded-full bg-accent-green inline-block"></span>
-            KHORA
+            KHORE
           </div>
           <div className="flex gap-8 font-mono text-gray-500">
              <a href="#" className="hover:text-gray-200 transition-colors">GitHub Repo</a>
